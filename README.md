@@ -1,7 +1,11 @@
-# Real-Life-DSA
+# Real-Life-DSA 
+[Medium Link for the same](https://zriyansh.medium.com/data-structures-and-algorithms-in-real-life-6b2b813d516e)
 
 Q. Data Structures in real life. Seriously? Why do I need to know this buddy?
+
 -because the interviewer got no chill!
+<br>
+<br>
 
 So, girls and boys, allow me to present — what you were not looking for, apparently. Facepalm.
 There’s no other list over the internet — this extensive. I bet you.
@@ -19,6 +23,7 @@ ARRAYS
 10. Online ticket booking.
 11. Contacts on a cell phone.
 
+<br>
 
 MATRIX
 1. In geology, matrices are used for making seismic surveys.
@@ -26,20 +31,24 @@ MATRIX
 3. Matrices are also used in representing real-world data like the population of people, infant mortality rate, etc.
 4. They are the best representation methods for plotting surveys.
 
+<br>
 
 STRINGS (not really a data structure)
 1. Spam email detection.
 2. Plagiarism detection.
 
+<br>
 
 LINEAR SEARCH
 1. Finding a word in a lexicographically-unsorted physical dictionary book.
 2. Searching data in Linked List.
 
+<br>
 
 BINARY SEARCH
 1. Finding Page Number in a book, e.g. — Target page number is 35, you open at page no. 15, it’s less, you move ahead and open 43, it is greater, you again move backward.
 
+<br>
 
 LINKED LIST
 1. Image viewer software uses a linked list to view the previous and the next images using the previous and next buttons.
@@ -56,6 +65,7 @@ LINKED LIST
 12. Train coaches are connected to one another in a doubly-linked list fashion.
 13. It can be used to implement Stacks, Queues, Graphs, and Trees.
 
+<br>
 
 STACKS — LIFO
 1. Undo/Redo button/operation in word processors.
@@ -76,6 +86,7 @@ STACKS — LIFO
 16. Used in IDEs to check for proper parentheses matching.
 17. Evaluate an expression (i.e., parse).
 
+<br>
 
 QUEUES
 1. In Escalators.
@@ -91,11 +102,13 @@ QUEUES
 11. A queue can be implemented in — Linked List-based Queue, Array-based Queue, Stack-based Queue.
 12. Uploading and downloading photo’s, first kept for uploading/downloading will be completed first (Not if there is threading)
 
+<br>
 
 PRIORITY QUEUE
 1. Process scheduling in the kernel.
 2. Priority queues are used in file downloading operations in a browser.
 
+<br>
 
 SORTING ALGORITHM
 1. Order things by their value.
@@ -103,6 +116,7 @@ SORTING ALGORITHM
 3. Playing Cards with your friends(Insertion Sort).
 4. sort() — uses IntroSort(a hybrid of Quicksort, Heapsort, and Insertion Sort), Faster than qsort().
 
+<br>
 
 GRAPHS
 1. Facebook, Instagram, and all social media networking sites, every user is Node, use the graph to suggest friends.
@@ -115,6 +129,7 @@ GRAPHS
 8. Flight Networks.
 9. Page ranking.
 
+<br>
 
 TREE
 1. A decision-based algorithm is used in machine learning which works upon the algorithm of a tree.
@@ -132,30 +147,38 @@ TREE
 13. Posting questions on websites like Quora, the comments are a child of questions.
 14. It is used in parsers, filesystems, IP routing tables, data analysis, and data mining applications.
 
+<br>
+
 BST
 1. 3D Game Engine.
 2. Computer Graphics Rendering.
 
+<br>
 
 Red-Black Trees
 1. Used when there is frequent Insertion/Deletion and few searches.
 2. K -mean Clustering using red-black tree, Databases, Simple-minded database, searching words inside dictionaries, searching on the web.
 3. Process Scheduling in Linux.
 
+<br>
 
 AVL Trees
 1. More Search and less of Insertion/Deletion
 2. Data Analysis and Data Mining and the applications which involve more searches
 
+<br>
+
 Suffix tree
 1. Fast full-text search, used in most word processors.
 
+<br>
 
 TRIE
 1. Dictionary application.
 2. Autocomplete feature in searching.
 3. Auto-completing the text and spells checking.
 
+<br>
 
 HASH TABLE
 1. Data stored in databases is generally of the key-value format which is done through hash tables.
@@ -167,23 +190,31 @@ HASH TABLE
 6. Used for fast data lookup — symbol table for compilers, database indexing, caches, Unique data representation.
 7. To store a set of fixed keywords that are referenced very frequently.
 
+<br>
 
 HEAP
 1. Systems concerned with security and embedded systems such as Linux Kernel uses Heap Sort because of the O( n log(n) ).
 2. If we are stuck in finding the K-th smallest (or largest) value of a number then heaps can solve the problem in an easy and fast manner.
 used by JVM (Java Virtual Machine) to store Java objects.
 
+<br>
+
 GREEDY ALGORITHM
 1. Dijkstra algorithm.
 2. Shopping on a tight budget but want to buy gifts for all family members.
 3. Prim’s and Kruskal’s algorithms are used for finding the minimum spanning trees.
 
+<br>
+
 DIJKSTRA ALGORITHM
 1. Used in applications like Google Maps to find the shortest path in a graph.
+
+<br>
 
 PRIM’S and KRUSKAL’S
 1. Used for finding the minimum spanning trees.
 
+<br>
 
 DYNAMIC PROGRAMMING
 
@@ -199,11 +230,14 @@ B. Applications in Computer science
 5. Single source shortest path- Bellman-Ford Algorithm.
 6. Document Distance Algorithms- to identify the extent of similarity between two text documents used by Search engines like Google, Wikipedia, Quora, and other websites.
 
+<br>
 
 BACKTRACKING
 1. Suppose we are coding a chess-playing algorithm and at a certain point, the algorithm finds that a set of steps fails to win. In this situation, the algorithm will reverse back to the safe state and try another possible set of steps.
 2. Sudoku solver
 3. 2048 game
+
+<br>
 
 MISC:
 1. Binary search can be used in negotiations.
