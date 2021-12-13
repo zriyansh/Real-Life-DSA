@@ -184,7 +184,9 @@ DIJKSTRA ALGORITHM
 PRIM’S and KRUSKAL’S
 1. Used for finding the minimum spanning trees.
 
+
 DYNAMIC PROGRAMMING
+
 A. Real-life examples
 1. In Google Maps to find the shortest path between the source and the series of destinations (one by one) out of the various available paths.
 2. In networking to transfer data from a sender to various receivers in a sequential manner.
