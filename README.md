@@ -8,7 +8,7 @@ Q. Data Structures in real life. Seriously? Why do I need to know this buddy?
 <br>
 
 So, girls and boys, allow me to present — what you were not looking for, apparently. Facepalm.
-There’s no other list over the internet — this extensive. I bet you.
+There’s no other list over the internet — this extensive. I  bet you.
 
 ARRAYS
 1. 2D arrays (as matrix), are used in image processing.
